@@ -48,5 +48,55 @@
         "weight": 75,
         "bmi": 31.22,
         "verdict": "Obese"
+    },
+    "P009": {
+        "name": "ghufran",
+        "city": "hyferabad",
+        "age": 20,
+        "gender": "male",
+        "height": 150.0,
+        "weight": 80.0,
+        "bmi": 0.0,
+        "verdict": "Underweight"
+    },
+    "P010": {
+        "name": "ghufran",
+        "city": "hyferabad",
+        "age": 20,
+        "gender": "male",
+        "height": 150.0,
+        "weight": 80.0,
+        "bmi": 0.0,
+        "verdict": "Underweight"
+    },
+    "P011": {
+        "name": "ghufran",
+        "city": "gilgit",
+        "age": 50,
+        "gender": "male",
+        "height": 157.0,
+        "weight": 80.0,
+        "bmi": 0.0,
+        "verdict": "Underweight"
+    },
+    "P012": {
+        "name": "ghufran",
+        "city": "gilgit",
+        "age": 50,
+        "gender": "male",
+        "height": 6.0,
+        "weight": 80.0,
+        "bmi": 2.22,
+        "verdict": "Underweight"
+    },
+    "P013": {
+        "name": "ghufran",
+        "city": "gilgit",
+        "age": 50,
+        "gender": "male",
+        "height": 5.5,
+        "weight": 80.0,
+        "bmi": 2.64,
+        "verdict": "Underweight"
     }
 }
