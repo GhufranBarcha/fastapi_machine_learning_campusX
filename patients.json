@@ -30,14 +30,14 @@
         "verdict": "Underweight"
     },
     "P004": {
-        "name": "Arjun Verma",
-        "city": "Bangalore",
+        "name": "string",
+        "city": "string",
         "age": 40,
         "gender": "male",
-        "height": 1.8,
-        "weight": 95,
-        "bmi": 29.32,
-        "verdict": "Overweight"
+        "height": 5.0,
+        "weight": 80.0,
+        "bmi": 3.2,
+        "verdict": "Underweight"
     },
     "P005": {
         "name": "Neha Sinha",
@@ -48,16 +48,6 @@
         "weight": 75,
         "bmi": 31.22,
         "verdict": "Obese"
-    },
-    "P009": {
-        "name": "ghufran",
-        "city": "hyferabad",
-        "age": 20,
-        "gender": "male",
-        "height": 150.0,
-        "weight": 80.0,
-        "bmi": 0.0,
-        "verdict": "Underweight"
     },
     "P010": {
         "name": "ghufran",
