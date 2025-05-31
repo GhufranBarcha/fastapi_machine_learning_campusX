@@ -23,7 +23,7 @@ This repository provides code examples for:
     *   `Readme.md`: Readme file for the Pydantic crash course.
 *   `serving_ml_model/`: Contains code for serving ML models with FastAPI.
     *   `backend.py`: Backend implementation for the ML model.
-    *   `fastapi_ml_model.ipynb`: Jupyter Notebook demonstrating FastAPI ML model serving.
+    *   `fastapi_ml_model.ipynb`: Jupyter Notebook demonstrating model training on a dummy data.
     *   `frontend.py`: Frontend code (if any) for interacting with the ML model.
     *   `insurance.csv`: Sample data for the insurance prediction model.
     *   `model.pkl`: Pre-trained machine learning model.
@@ -60,7 +60,7 @@ The `serving_ml_model/` directory contains the necessary files to serve machine 
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/GhufranBarcha/fastapi_machine_learning_campusX.git
     cd fastapi_tutorial_project_campusX
     ```
 
